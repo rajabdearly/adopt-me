@@ -1,0 +1,24 @@
+{
+  "name": "adopt-me",
+  "version": "1.0.0",
+  "description": "React application for dog adoption",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier \"src/**/*.{js,html}\" --write",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajabdearly/adopt-me.git"
+  },
+  "keywords": [],
+  "author": "Rajab Azizli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajabdearly/adopt-me/issues"
+  },
+  "homepage": "https://github.com/rajabdearly/adopt-me#readme",
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
