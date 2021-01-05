@@ -8,5 +8,5 @@ npm install
 ```
 **Run** application with:<br>
 ```Bash
-npm run dev 
+npm run dev
 ```
